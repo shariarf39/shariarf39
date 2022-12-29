@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shariarf39
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning App development advance level. 
-- 💞️ I’m looking to collaborate on Everyone 
+- 💞️ I’m looking to collaborate on problem solving 
 - 📫 How to reach me 01892382840(Whstapp)
 
 <!---

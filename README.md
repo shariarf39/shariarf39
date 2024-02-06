@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @shariarf39
-- 👀 I’m interested in programing 
-- 🌱 I’m currently learning App development advance level. 
-- 💞️ I’m looking to collaborate on problem solving 
-- 📫 How to reach me 01892382840(Whstapp)
+# 💫 About Me:
+👋 Hi, I’m @shariarf39<br><br>👀 I’m interested in programing<br><br>🌱 I’m currently learning App development advance level.<br><br>💞️ I’m looking to collaborate on problem solving<br><br>📫 How to reach me 01892382840(Whstapp)<br><br>
 
-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">   
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shariarf39&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shariarf39&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shariarf39&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!---
-shariarf39/shariarf39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=shariarf39&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

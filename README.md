@@ -1,5 +1,28 @@
-# 💫 About Me:
-👋 Hi, I’m @shariarf39<br><br>👀 I’m interested in programing<br><br>🌱 I’m currently learning App development advance level.<br><br>💞️ I’m looking to collaborate on problem solving<br><br>📫 How to reach me 01892382840(Whstapp)
+## 💫 About Me
+
+Hello! I’m **@shariarf39**.
+
+I am a dedicated **app developer** with expertise in **Java** and **Flutter**. My experience spans **database management** with **MySQL** and **website development** using **HTML**, **CSS**, **JavaScript**, and **Laravel**. I am currently focused on **advanced app development** and am keen to engage in **problem-solving projects**.
+
+### 🚀 Skills & Technologies
+
+- **Programming Languages for Problem Solving:** C, C++, Java, Python
+- **App Development:** Java, Flutter
+- **Database Management:** MySQL
+- **Web Development:** HTML, CSS, JavaScript, Laravel
+
+### 🌱 Learning Goals
+
+I am committed to enhancing my skills in **advanced app development** and exploring emerging technologies to stay ahead in the field.
+
+### 🤝 Collaboration
+
+I am open to collaborating on projects that involve **problem-solving**, **innovation**, and **technology development**.
+
+### 📫 Contact
+
+Feel free to reach out to me via [WhatsApp](https://wa.me/01892382840) or connect with me on [LinkedIn](https://www.linkedin.com/in/shariarf39/) for professional networking.
+
 
 
 ## 🌐 Socials:
